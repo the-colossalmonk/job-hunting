@@ -1,0 +1,36 @@
+﻿Skills active: hiring-manager-calibrating
+
+
+Rewritten resumes from Prompt 3:
+--- START ---
+[PASTE ALL REWRITTEN RESUMES HERE, LABELED BY FILENAME AND ROLE]
+--- END ---
+
+
+Run all four review lenses for every resume independently.
+
+
+For each resume deliver:
+- Recruiter scan result
+- Hiring manager depth assessment
+- Seniority consistency verdict
+- Domain readiness verdict
+- 7 recruiter concerns ranked by deal-breaker risk
+- 7 hiring manager concerns
+- What works strongly in this version's favour
+- Interview risk flags
+- Specific rewrite suggestions for anything still weak
+- Readiness rating: Ready / Almost (list 3 explicit fixes) / Not Yet (explain and pause)
+
+
+Label every section by filename, role, and rating.
+Do not mix feedback between versions.
+
+
+End with a readiness summary table:
+| Resume | Role | Rating | Blockers |
+
+
+For any Not Yet version: stop on that version and ask me whether to fix it
+or skip it before moving to job hunting.
+Save all cleared versions — they carry forward to Prompt 5.

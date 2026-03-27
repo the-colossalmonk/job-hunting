@@ -1,0 +1,34 @@
+﻿Skills active: resume-ats-optimizing
+
+
+Resumes attached: [NUMBER] (same files as before)
+
+
+ATS score report from Prompt 2:
+--- START ---
+[PASTE PROMPT 2 OUTPUT HERE]
+--- END ---
+
+
+Run Phase 3 and Phase 4 for every resume. Fix every issue flagged in the score report.
+
+
+For each resume produce in this exact order:
+1. Rewritten headline and summary
+2. Rewritten experience bullets — action + scope + result.
+   Mark unknown metrics as [add quantified outcome here]. Never invent.
+3. Rewritten skills section aligned to the target role
+4. Recommended section order
+5. Full ATS-safe plain-text resume — no tables, columns, icons, or decoration
+6. Before and after ATS score with 5–7 bullet explanation of improvement
+7. 5 residual interview risks still present, if any
+
+
+Label every section by filename and role. Do not merge versions.
+
+
+End with a cross-version improvement table:
+| Resume | Role | Before Score | After Score | Improvement |
+
+
+Save every rewritten resume — they carry forward to Prompt 4.

@@ -1,0 +1,148 @@
+﻿Skills active: job-hunt-orchestrating, job-hunt-sourcing
+
+
+Cleared resumes from Prompt 4:
+--- START ---
+[PASTE ALL CLEARED RESUMES HERE, LABELED BY FILENAME AND ROLE]
+--- END ---
+
+
+My preferences:
+LinkedIn URL:             [paste here]
+Preferred cities:         [e.g. Delhi / Bangalore / any]
+Compensation currency:    [INR / USD / either]
+Work arrangement:         [Onsite / Hybrid / Remote / Async / No preference]
+Seniority:                [e.g. Mid-level to Senior]
+Preferred sectors:        [e.g. Fintech, SaaS / open]
+Sectors to avoid:         [e.g. none]
+Jobs per resume:          [100 minimum, or specify more]
+
+
+Tracks to activate:
+Track A — India onsite/hybrid:  [YES / NO]
+Track B — India remote:         [YES / NO]
+Track C — Global remote:        [YES / NO]
+
+
+Default split if not specified: A = 50, B = 25, C = 25 per resume.
+
+
+Step 1 — run job-hunt-orchestrating:
+- Parse my LinkedIn URL and build the Master Exclusion List.
+- Show me the list and wait for my confirmation before any search begins.
+- Map each resume to primary, adjacent, and stretch titles plus search keywords.
+- Route each version independently to job-hunt-sourcing.
+
+
+Step 2 — run job-hunt-sourcing per resume across all active tracks:
+
+
+Track A portals: Naukri, LinkedIn Jobs, WellFound, Indeed India,
+                 Unstop, Upler, Internshala
+Track B portals: Naukri (remote), LinkedIn Jobs (remote),
+                 Indeed India (remote), WellFound (remote), Remotive
+Track C portals: We Work Remotely, RemoteOK, Arc.dev, Turing, Remotive,
+                 FlexJobs, Crossover, Remote.co,
+                 LinkedIn Jobs (Worldwide + Remote), WellFound (global remote)
+
+
+For every job return: company, HQ, title, seniority, track, sector, company type,
+work type, compensation, source portal, direct application link,
+India eligibility note (Track C only), 2-bullet fit reason, gaps, fit score /100.
+
+
+Step 3 — assemble per resume:
+- Prioritized job table: high / medium / stretch with correct sort order
+- Before-applying checklist
+- Track-wise summary: jobs per track, top portals, top sectors, thin tracks
+
+
+Step 4 — after all resumes are complete:
+Generate 4–6 reusable role-specific prompt variants for future standalone searches:
+Software Engineering, Product Management, Data Analytics, Consulting,
+Marketing / Growth, Operations / Project Management.
+Each must include the full four-skill pipeline, all tracks, all portals,
+LinkedIn exclusions, fit scores, and minimum job count.
+
+
+Rules:
+- Never fabricate a company, title, or URL
+- State source portal on every row
+- Track C: only include jobs explicitly open to India-based applicants
+- Flag stale or unverifiable listings, never include them silently
+- Never reuse job lists across resume versions
+
+
+Skills active: job-hunt-orchestrating, job-hunt-sourcing
+
+
+Cleared resumes from Prompt 4:
+--- START ---
+[PASTE ALL CLEARED RESUMES HERE, LABELED BY FILENAME AND ROLE]
+--- END ---
+
+
+My preferences:
+LinkedIn URL:             [paste here]
+Preferred cities:         [e.g. Delhi / Bangalore / any]
+Compensation currency:    [INR / USD / either]
+Work arrangement:         [Onsite / Hybrid / Remote / Async / No preference]
+Seniority:                [e.g. Mid-level to Senior]
+Preferred sectors:        [e.g. Fintech, SaaS / open]
+Sectors to avoid:         [e.g. none]
+Jobs per resume:          [100 minimum, or specify more]
+
+
+Tracks to activate:
+Track A — India onsite/hybrid:  [YES / NO]
+Track B — India remote:         [YES / NO]
+Track C — Global remote:        [YES / NO]
+
+
+Default split if not specified: A = 50, B = 25, C = 25 per resume.
+
+
+Step 1 — run job-hunt-orchestrating:
+- Parse my LinkedIn URL and build the Master Exclusion List.
+- Show me the list and wait for my confirmation before any search begins.
+- Map each resume to primary, adjacent, and stretch titles plus search keywords.
+- Route each version independently to job-hunt-sourcing.
+
+
+Step 2 — run job-hunt-sourcing per resume across all active tracks:
+
+
+Track A portals: Naukri, LinkedIn Jobs, WellFound, Indeed India,
+                 Unstop, Upler, Internshala
+Track B portals: Naukri (remote), LinkedIn Jobs (remote),
+                 Indeed India (remote), WellFound (remote), Remotive
+Track C portals: We Work Remotely, RemoteOK, Arc.dev, Turing, Remotive,
+                 FlexJobs, Crossover, Remote.co,
+                 LinkedIn Jobs (Worldwide + Remote), WellFound (global remote)
+
+
+For every job return: company, HQ, title, seniority, track, sector, company type,
+work type, compensation, source portal, direct application link,
+India eligibility note (Track C only), 2-bullet fit reason, gaps, fit score /100.
+
+
+Step 3 — assemble per resume:
+- Prioritized job table: high / medium / stretch with correct sort order
+- Before-applying checklist
+- Track-wise summary: jobs per track, top portals, top sectors, thin tracks
+
+
+Step 4 — after all resumes are complete:
+Generate 4–6 reusable role-specific prompt variants for future standalone searches:
+Software Engineering, Product Management, Data Analytics, Consulting,
+Marketing / Growth, Operations / Project Management.
+Each must include the full four-skill pipeline, all tracks, all portals,
+LinkedIn exclusions, fit scores, and minimum job count.
+
+
+Rules:
+- Never fabricate a company, title, or URL
+- State source portal on every row
+- Track C: only include jobs explicitly open to India-based applicants
+- Flag stale or unverifiable listings, never include them silently
+- Never reuse job lists across resume versions

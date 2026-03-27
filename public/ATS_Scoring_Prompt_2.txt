@@ -1,0 +1,29 @@
+﻿Skills active: resume-ats-optimizing
+
+
+Resumes attached: [NUMBER] (same files as Prompt 1)
+
+
+Profile analysis from Prompt 1:
+--- START ---
+[PASTE PROMPT 1 OUTPUT HERE]
+--- END ---
+
+
+Run Phase 2 ATS diagnosis in full for every resume. Do not rewrite yet.
+
+
+For each resume:
+- Score all 8 ATS dimensions with a score, one-line reason, and specific issue.
+- Report the total weighted ATS score out of 100.
+- List the top 10 ATS issues ranked by impact.
+- List the top 10 missing keywords for the target role.
+- List the weakest bullets that need rewriting.
+
+
+Label every section by filename and role.
+Do not mix scores or issues between versions.
+
+
+End with a cross-version comparison table:
+| Resume | Role | ATS Score | Top 3 Issues |

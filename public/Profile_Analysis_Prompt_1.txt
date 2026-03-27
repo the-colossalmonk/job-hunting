@@ -1,0 +1,35 @@
+﻿Skills active: resume-ats-optimizing
+
+
+Resumes attached: [NUMBER]
+1. [filename] → role: [name it, or write "infer"]
+2. [filename] → role: [name it, or write "infer"]
+3. [filename] → role: [name it, or write "infer"]
+
+
+Run Phase 1 only. Do not score, rewrite, or produce a final resume yet.
+
+
+For each resume:
+- Confirm or infer the target role family. If ambiguous, give top 2 options
+  and ask me to confirm before moving to the next resume.
+- List the top 6–10 role types this profile is realistically competitive for.
+- For each role type: flag must-have hard and soft skills as present or missing,
+  and rate gap severity as critical / moderate / minor.
+- Identify the 3–5 strongest selling points in this version.
+- Identify the 3–5 biggest weaknesses a recruiter would flag immediately.
+- Write a 1-paragraph honest assessment of where this version stands and what
+  roles it is competitive for right now.
+
+
+Label every section by filename and role.
+Run every resume fully before moving to the next. Do not mix feedback between versions.
+
+
+End with a short cross-version note:
+- Which version is strongest overall
+- Which role family each version is best suited for
+- Any contradictions between versions
+
+
+Additionally, save this full output — it carries forward to Prompt 2.
