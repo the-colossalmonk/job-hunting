@@ -11,6 +11,7 @@ import { Features } from './components/Features';
 import { Tracks } from './components/Tracks';
 import { HowTo } from './components/HowTo';
 import { Footer } from './components/Footer';
+import { AdBlockDetector } from './components/AdBlockDetector';
 
 function App() {
   useEffect(() => {
@@ -42,6 +43,7 @@ function App() {
 
   return (
     <>
+      <AdBlockDetector />
       <Cursor />
       <Background />
       <Navbar />
